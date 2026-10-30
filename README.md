@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Muskan Mishra! 👋
 
-<!--
-**mismuskan39-png/mismuskan39-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BBA Student | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm a BBA student interested in Business Analytics, Data Analysis, and Technology.
+- Html
+- python
+- Pandas
+- Matplotlib
+- Data Visualization
+- Business Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 My Projects
+
+**E-Commerce Sales Data Analysis**
+- Analyzed sales data using Python.
+- Used Pandas for data analysis.
+- Created visualizations using Matplotlib.
+- Studied sales trends, categories, regions, and top products.
+
+### 🎯 Career Interests
+- Data Analytics
+- Business Analytics
+- Marketing Analytics
+- Business Management
+- human resource management 
+
+### 🌱 Currently Learning
+Improving my Python and analytical skills through practical projects.
+
+### 📫 Connect With Me
+GitHub: @mismuskan39-png
